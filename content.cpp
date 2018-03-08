@@ -21,6 +21,5 @@ int main() {
         cout << "nvlyt";
         cout << "nkudq";
         cout << "fudkf";
-        cout << "jklkf";
 return 0;
 }
