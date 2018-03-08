@@ -20,6 +20,5 @@ int main() {
         cout << "btolq";
         cout << "nvlyt";
         cout << "nkudq";
-        cout << "fudkf";
 return 0;
 }
