@@ -18,6 +18,5 @@ int main() {
         cout << "psbax";
         cout << "nikpv";
         cout << "btolq";
-        cout << "nvlyt";
 return 0;
 }
