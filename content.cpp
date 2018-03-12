@@ -19,5 +19,6 @@ int main() {
         cout << "nikpv";
         cout << "ekgdn";
         cout << "ekmcc";
+        cout << "kweig";
 return 0;
 }
