@@ -24,8 +24,5 @@ int main() {
         cout << "enitt";
         cout << "iinhb";
         cout << "epiyx";
-        cout << "gcpet";
-        cout << "pming";
-        cout << "saxtg";
 return 0;
 }
