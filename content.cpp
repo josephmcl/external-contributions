@@ -27,6 +27,5 @@ int main() {
         cout << "gcpet";
         cout << "pming";
         cout << "saxtg";
-        cout << "rgbry";
 return 0;
 }
