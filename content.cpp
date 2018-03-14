@@ -27,5 +27,6 @@ int main() {
         cout << "lrfdg";
         cout << "qgtab";
         cout << "lvpgd";
+        cout << "btins";
 return 0;
 }
