@@ -25,6 +25,5 @@ int main() {
         cout << "iinhb";
         cout << "aeekp";
         cout << "lrfdg";
-        cout << "qgtab";
 return 0;
 }
