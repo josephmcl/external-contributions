@@ -31,6 +31,5 @@ int main() {
         cout << "pxblq";
         cout << "fesrx";
         cout << "afxsb";
-        cout << "whyec";
 return 0;
 }
