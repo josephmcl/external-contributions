@@ -27,6 +27,5 @@ int main() {
         cout << "xgfmv";
         cout << "sefwh";
         cout << "opdpj";
-        cout << "leoxg";
 return 0;
 }
