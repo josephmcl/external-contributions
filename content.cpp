@@ -30,6 +30,5 @@ int main() {
         cout << "sfkev";
         cout << "cxtil";
         cout << "twevd";
-        cout << "lmyly";
 return 0;
 }
