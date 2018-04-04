@@ -26,6 +26,5 @@ int main() {
         cout << "aeekp";
         cout << "xgfmv";
         cout << "sefwh";
-        cout << "brush";
 return 0;
 }
