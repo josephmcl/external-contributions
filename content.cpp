@@ -27,6 +27,5 @@ int main() {
         cout << "xgfmv";
         cout << "sefwh";
         cout << "brush";
-        cout << "sfkev";
 return 0;
 }
