@@ -28,6 +28,5 @@ int main() {
         cout << "sefwh";
         cout << "brush";
         cout << "sfkev";
-        cout << "cxtil";
 return 0;
 }
