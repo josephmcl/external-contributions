@@ -40,6 +40,5 @@ int main() {
         cout << "caoje";
         cout << "kmatd";
         cout << "dldwv";
-        cout << "xadbg";
 return 0;
 }
