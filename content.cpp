@@ -39,6 +39,5 @@ int main() {
         cout << "ytkth";
         cout << "caoje";
         cout << "kmatd";
-        cout << "dldwv";
 return 0;
 }
