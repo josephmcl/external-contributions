@@ -39,10 +39,8 @@ int main() {
         cout << "ytkth";
         cout << "caoje";
         cout << "kmatd";
-        cout << "kakap";
-        cout << "ouadd";
-        cout << "qibcb";
-        cout << "dkwgf";
-        cout << "kamwt";
+        cout << "dldwv";
+        cout << "xadbg";
+        cout << "noanq";
 return 0;
 }
