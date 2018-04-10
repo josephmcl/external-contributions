@@ -41,6 +41,5 @@ int main() {
         cout << "kmatd";
         cout << "dldwv";
         cout << "xadbg";
-        cout << "noanq";
 return 0;
 }
