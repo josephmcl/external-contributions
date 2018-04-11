@@ -40,6 +40,5 @@ int main() {
         cout << "jbrqr";
         cout << "ajqkk";
         cout << "eetrs";
-        cout << "scbqg";
 return 0;
 }
