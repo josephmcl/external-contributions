@@ -38,7 +38,6 @@ int main() {
         cout << "mcpxy";
         cout << "ytkth";
         cout << "jbrqr";
-        cout << "ajqkk";
-        cout << "eetrs";
+        cout << "txspf";
 return 0;
 }
