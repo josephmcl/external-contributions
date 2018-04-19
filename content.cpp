@@ -38,6 +38,5 @@ int main() {
         cout << "mcpxy";
         cout << "ytkth";
         cout << "jbrqr";
-        cout << "txspf";
 return 0;
 }
