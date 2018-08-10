@@ -56,5 +56,6 @@ int main() {
         cout << "foogf";
         cout << "nhwhy";
         cout << "sykfa";
+        cout << "osove";
 return 0;
 }
