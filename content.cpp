@@ -57,5 +57,6 @@ int main() {
         cout << "nhwhy";
         cout << "sykfa";
         cout << "osove";
+        cout << "abugh";
 return 0;
 }
