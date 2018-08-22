@@ -10,6 +10,5 @@ int main() {
         cout << "iignn";
         cout << "kvobg";
         cout << "isvvw";
-        cout << "acgkh";
 return 0;
 }
