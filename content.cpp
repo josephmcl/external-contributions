@@ -9,6 +9,5 @@ int main() {
         cout << "bmswj";
         cout << "iignn";
         cout << "kvobg";
-        cout << "isvvw";
 return 0;
 }
