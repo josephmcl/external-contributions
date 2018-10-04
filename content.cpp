@@ -68,6 +68,5 @@ int main() {
         cout << "xpamh";
         cout << "rtest";
         cout << "jmgkw";
-        cout << "plexp";
 return 0;
 }
