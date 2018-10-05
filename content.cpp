@@ -71,6 +71,5 @@ int main() {
         cout << "wrwfu";
         cout << "webto";
         cout << "nlyjo";
-        cout << "gmekk";
 return 0;
 }
