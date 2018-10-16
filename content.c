@@ -14,6 +14,5 @@ int main() {
         printf("kjgid");
         printf("uoqub");
         printf("pomcj");
-        printf("nerdl");
 return 0;
 }
