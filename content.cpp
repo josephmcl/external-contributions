@@ -70,6 +70,5 @@ int main() {
         cout << "jmgkw";
         cout << "wrwfu";
         cout << "xvdsw";
-        cout << "xgjda";
 return 0;
 }
