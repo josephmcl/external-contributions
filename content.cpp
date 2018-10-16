@@ -72,6 +72,5 @@ int main() {
         cout << "xvdsw";
         cout << "xgjda";
         cout << "vvhxu";
-        cout << "hnbgn";
 return 0;
 }
