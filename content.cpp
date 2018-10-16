@@ -69,6 +69,5 @@ int main() {
         cout << "rtest";
         cout << "jmgkw";
         cout << "wrwfu";
-        cout << "xvdsw";
 return 0;
 }
