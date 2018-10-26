@@ -16,6 +16,5 @@ int main() {
         printf("pomcj");
         printf("paqpd");
         printf("ltiov");
-        printf("hdwii");
 return 0;
 }
