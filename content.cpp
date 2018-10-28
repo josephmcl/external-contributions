@@ -69,6 +69,5 @@ int main() {
         cout << "vkhwd";
         cout << "vcjkc";
         cout << "puevx";
-        cout << "soxnq";
 return 0;
 }
