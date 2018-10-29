@@ -65,6 +65,5 @@ int main() {
         cout << "xmtdh";
         cout << "kvfxt";
         cout << "pqofi";
-        cout << "cryts";
 return 0;
 }
