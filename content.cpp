@@ -67,6 +67,5 @@ int main() {
         cout << "ehgen";
         cout << "ujkbu";
         cout << "oehfi";
-        cout << "qdaxe";
 return 0;
 }
