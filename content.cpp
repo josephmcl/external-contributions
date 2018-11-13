@@ -77,6 +77,5 @@ int main() {
         cout << "uojhd";
         cout << "xyxpw";
         cout << "gxqhc";
-        cout << "hjdoj";
 return 0;
 }
