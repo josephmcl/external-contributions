@@ -77,6 +77,5 @@ int main() {
         cout << "uojhd";
         cout << "culyj";
         cout << "lfcwo";
-        cout << "vddag";
 return 0;
 }
