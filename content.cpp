@@ -78,6 +78,5 @@ int main() {
         cout << "culyj";
         cout << "wlfvw";
         cout << "rhdsf";
-        cout << "gpbpm";
 return 0;
 }
