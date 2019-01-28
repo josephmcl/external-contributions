@@ -75,5 +75,6 @@ int main() {
         cout << "wanpd";
         cout << "iixam";
         cout << "uojhd";
+        cout << "hdver";
 return 0;
 }
