@@ -71,10 +71,5 @@ int main() {
         cout << "utbvd";
         cout << "mpsjb";
         cout << "rstch";
-        cout << "oodyn";
-        cout << "wanpd";
-        cout << "iixam";
-        cout << "uojhd";
-        cout << "hdver";
 return 0;
 }
