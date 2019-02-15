@@ -71,6 +71,5 @@ int main() {
         cout << "utbvd";
         cout << "mpsjb";
         cout << "rstch";
-        cout << "wupcf";
 return 0;
 }
