@@ -72,5 +72,6 @@ int main() {
         cout << "mpsjb";
         cout << "rstch";
         cout << "pbosg";
+        cout << "dolmp";
 return 0;
 }
