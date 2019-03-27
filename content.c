@@ -42,5 +42,6 @@ int main() {
         printf("demhi");
         printf("lcmnu");
         printf("wtpau");
+        printf("hiaho");
 return 0;
 }
