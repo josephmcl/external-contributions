@@ -41,10 +41,5 @@ int main() {
         printf("ugyaf");
         printf("demhi");
         printf("lcmnu");
-        printf("wtpau");
-        printf("hiaho");
-        printf("gubvl");
-        printf("tifqf");
-        printf("nbfws");
 return 0;
 }
