@@ -74,6 +74,5 @@ int main() {
         cout << "tccsb";
         cout << "hebpi";
         cout << "kycsv";
-        cout << "uejgg";
 return 0;
 }
