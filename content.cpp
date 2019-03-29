@@ -72,6 +72,5 @@ int main() {
         cout << "mpsjb";
         cout << "rstch";
         cout << "tccsb";
-        cout << "hebpi";
 return 0;
 }
