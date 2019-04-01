@@ -71,6 +71,5 @@ int main() {
         cout << "utbvd";
         cout << "mpsjb";
         cout << "fivxf";
-        cout << "otalc";
 return 0;
 }
