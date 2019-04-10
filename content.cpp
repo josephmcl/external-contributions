@@ -70,5 +70,10 @@ int main() {
         cout << "kqrst";
         cout << "utbvd";
         cout << "wuvaw";
+        cout << "iejus";
+        cout << "ugrvx";
+        cout << "ninvr";
+        cout << "umpoy";
+        cout << "siers";
 return 0;
 }
