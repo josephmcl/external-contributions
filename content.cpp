@@ -75,6 +75,5 @@ int main() {
         cout << "ninvr";
         cout << "gkqrp";
         cout << "nrfkp";
-        cout << "gfmby";
 return 0;
 }
