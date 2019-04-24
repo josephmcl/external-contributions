@@ -74,6 +74,5 @@ int main() {
         cout << "ugrvx";
         cout << "ninvr";
         cout << "ehiqi";
-        cout << "xybar";
 return 0;
 }
