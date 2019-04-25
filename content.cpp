@@ -73,6 +73,5 @@ int main() {
         cout << "iejus";
         cout << "ugrvx";
         cout << "ninvr";
-        cout << "ehiqi";
 return 0;
 }
