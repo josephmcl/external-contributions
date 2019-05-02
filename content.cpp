@@ -73,6 +73,7 @@ int main() {
         cout << "iejus";
         cout << "ugrvx";
         cout << "ninvr";
-        cout << "cxlbu";
+        cout << "uyput";
+        cout << "ytxrt";
 return 0;
 }
