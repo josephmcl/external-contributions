@@ -74,6 +74,5 @@ int main() {
         cout << "ugrvx";
         cout << "ninvr";
         cout << "uyput";
-        cout << "ytxrt";
 return 0;
 }
