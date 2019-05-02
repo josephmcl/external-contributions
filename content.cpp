@@ -75,6 +75,5 @@ int main() {
         cout << "ninvr";
         cout << "uyput";
         cout << "ytxrt";
-        cout << "olapy";
 return 0;
 }
