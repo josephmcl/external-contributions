@@ -47,6 +47,5 @@ int main() {
         printf("mkahg");
         printf("qtvof");
         printf("kgmgi");
-        printf("ijdqd");
 return 0;
 }
