@@ -79,6 +79,5 @@ int main() {
         cout << "endmg";
         cout << "llljo";
         cout << "uhuva";
-        cout << "ggpse";
 return 0;
 }
