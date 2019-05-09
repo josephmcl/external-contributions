@@ -77,6 +77,7 @@ int main() {
         cout << "haest";
         cout << "ghmgv";
         cout << "endmg";
-        cout << "llljo";
+        cout << "hpihs";
+        cout << "pmeeh";
 return 0;
 }
