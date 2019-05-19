@@ -94,6 +94,5 @@ int main() {
         cout << "tsdgj";
         cout << "fvjbm";
         cout << "dirqv";
-        cout << "oamso";
 return 0;
 }
