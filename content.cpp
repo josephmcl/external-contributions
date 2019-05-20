@@ -91,6 +91,5 @@ int main() {
         cout << "vtjtm";
         cout << "kkjav";
         cout << "vsflx";
-        cout << "tsdgj";
 return 0;
 }
