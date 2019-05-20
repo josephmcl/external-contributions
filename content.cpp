@@ -90,6 +90,5 @@ int main() {
         cout << "pawdo";
         cout << "vtjtm";
         cout << "kkjav";
-        cout << "vsflx";
 return 0;
 }
