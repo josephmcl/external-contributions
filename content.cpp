@@ -93,6 +93,5 @@ int main() {
         cout << "bfcoa";
         cout << "iipci";
         cout << "npptc";
-        cout << "geely";
 return 0;
 }
