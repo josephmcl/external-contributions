@@ -92,6 +92,5 @@ int main() {
         cout << "kkjav";
         cout << "bfcoa";
         cout << "iipci";
-        cout << "npptc";
 return 0;
 }
