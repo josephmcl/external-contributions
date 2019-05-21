@@ -95,5 +95,6 @@ int main() {
         cout << "dctqs";
         cout << "rksxd";
         cout << "cekcd";
+        cout << "luruc";
 return 0;
 }
