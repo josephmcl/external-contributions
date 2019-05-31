@@ -101,6 +101,5 @@ int main() {
         cout << "xtgpu";
         cout << "esale";
         cout << "dlede";
-        cout << "mhpof";
 return 0;
 }
