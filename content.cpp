@@ -100,6 +100,5 @@ int main() {
         cout << "nqqcn";
         cout << "xtgpu";
         cout << "esale";
-        cout << "dlede";
 return 0;
 }
