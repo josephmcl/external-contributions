@@ -108,6 +108,5 @@ int main() {
         cout << "wdada";
         cout << "ssvah";
         cout << "nghsq";
-        cout << "xhidp";
 return 0;
 }
