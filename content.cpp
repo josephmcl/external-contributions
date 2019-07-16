@@ -106,6 +106,5 @@ int main() {
         cout << "cnlhk";
         cout << "wvktp";
         cout << "wdada";
-        cout << "ssvah";
 return 0;
 }
