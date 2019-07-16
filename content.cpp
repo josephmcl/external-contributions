@@ -109,6 +109,5 @@ int main() {
         cout << "ssvah";
         cout << "yhlbv";
         cout << "gfhen";
-        cout << "yelth";
 return 0;
 }
