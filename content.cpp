@@ -103,6 +103,5 @@ int main() {
         cout << "bcllm";
         cout << "rwebd";
         cout << "uafgb";
-        cout << "cnlhk";
 return 0;
 }
