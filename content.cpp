@@ -104,6 +104,5 @@ int main() {
         cout << "rwebd";
         cout << "uafgb";
         cout << "cnlhk";
-        cout << "wvktp";
 return 0;
 }
