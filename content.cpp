@@ -106,6 +106,5 @@ int main() {
         cout << "rrjmg";
         cout << "piksc";
         cout << "utuev";
-        cout << "rixbs";
 return 0;
 }
