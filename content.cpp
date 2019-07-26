@@ -114,5 +114,6 @@ int main() {
         cout << "notfc";
         cout << "frexn";
         cout << "munle";
+        cout << "gtnag";
 return 0;
 }
