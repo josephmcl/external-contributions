@@ -112,5 +112,6 @@ int main() {
         cout << "wsklt";
         cout << "dcfrk";
         cout << "notfc";
+        cout << "frexn";
 return 0;
 }
