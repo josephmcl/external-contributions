@@ -117,6 +117,5 @@ int main() {
         cout << "gtnag";
         cout << "xgyel";
         cout << "nakqe";
-        cout << "eiccb";
 return 0;
 }
