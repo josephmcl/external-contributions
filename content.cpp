@@ -116,6 +116,5 @@ int main() {
         cout << "munle";
         cout << "gtnag";
         cout << "xgyel";
-        cout << "nakqe";
 return 0;
 }
